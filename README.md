@@ -16,7 +16,7 @@ Soy backend developer especializado en el ecosistema Java/Spring Boot. Me enfoco
 |-----------|------------|
 | **Lenguaje** | ![](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) |
 | **Framework** | ![](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Spring_Security-6DB33F?logo=springsecurity&logoColor=white) |
-| **Base de datos** | ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/H2-CCCCCC?logo=databricks&logoColor=white) |
+| **Base de datos** | ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 | **DevOps** | ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white) |
 | **Otros** | JWT · JPA/Hibernate · Swagger/OpenAPI · JUnit 5 · Mockito · MapStruct |
 
