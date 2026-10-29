@@ -24,18 +24,9 @@ Soy backend engineer especializado en el ecosistema Java/Spring Boot orientado a
 
 ## Proyectos Destacados
 
-### [Blogging Platform API](https://github.com/lautarorisso/blogging-platform-api)
+### [Digital Money House](https://github.com/lautarorisso/digital-money-house)
 
-API REST completa para una plataforma de blogs con autenticación JWT, roles de usuario y gestión de posts.
-
-**Tech:** Java 21 · Spring Boot 3.5 · Spring Security · PostgreSQL · Spring Cache · Spring Actuator
-
-**Features clave:**
-- Autenticación JWT con roles USER/ADMIN
-- Gestión de posts con estados (DRAFT, PUBLISHED, ARCHIVED)
-- Rate limiting y caching
-- 30 tests (servicios, filtros e integración)
-- Documentación interactiva con Swagger
+Plataforma de gestión financiera digital.
 
 ---
 
@@ -51,6 +42,21 @@ API REST para sistema e-commerce con carrito de compras, gestión de órdenes y 
 - Carrito de compras con gestión de stock
 - Despliegue con Docker Compose
 - 63 tests (seguridad, servicios, controllers e integración)
+
+---
+
+### [Incident Management System](https://github.com/lautarorisso/incident-management-system)
+
+Sistema de gestión de incidentes basado en microservicios con Spring Boot 3.5, Spring Cloud 2025 y Java 21.
+
+**Tech:** Java 21 · Spring Boot 3.5 · Spring Cloud 2025 · PostgreSQL · MongoDB · RabbitMQ · Docker · Keycloak
+
+**Features clave:**
+- Arquitectura de microservicios (api-gateway, incident-service, notification-service, user-service)
+- Transactional outbox, at-least-once delivery con dedup y dead-lettering
+- JWT resource servers con token relay
+- Despliegue completo con Docker Compose (incluye Keycloak realm, users y roles)
+- Tests de integración y contract testing
 
 ---
 
