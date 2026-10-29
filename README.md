@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Soy backend developer especializado en el ecosistema Java/Spring Boot. Me enfoco en construir APIs REST robustas, seguras y bien estructuradas. Disfruto del diseño de arquitectura de software y de resolver problemas complejos a través de código limpio y mantenible.
+Soy backend engineer especializado en el ecosistema Java/Spring Boot orientado a Fintech. Me enfoco en construir APIs REST robustas, seguras y bien estructuradas. Disfruto del diseño de arquitectura de software y de resolver problemas complejos a través de código limpio y mantenible.
 
 ---
 
